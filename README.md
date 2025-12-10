@@ -47,7 +47,7 @@ Clone the repository and install dependencies:
 
 #### Clone the repository
 ```bash
-git clone [https://github.com/your-username/city-pulse.git](https://github.com/your-username/city-pulse.git)
+git clone [https://github.com/hemkeshkantawala11/News_App.git](https://github.com/hemkeshkantawala11/News_App.git)
 ```
 
 #### Navigate to the project folder
